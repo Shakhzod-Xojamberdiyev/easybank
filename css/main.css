@@ -336,12 +336,19 @@ body{
     margin: 0;
     padding-top: 8px;
     padding-bottom: 8px;
+   
+}
+.article__link{
+    text-decoration: none;
     font-weight: 100;
     font-size: 16px;
     line-height: 20px;
     letter-spacing: -0.285714px;
     color: #2D314D;
-    
+
+}
+.article__link:hover{
+    color: #30C88F;
 }
 .article__text{
     margin: 0;
